@@ -21,5 +21,5 @@ Zaimplementowano i porównano 3 modele regresji:
 | Drzewo decyzyjne | ~0.82 |
 | **Random Forest** | **~0.62** |
 
-Najlepszym modelem okazał się **Random Forest** (n_estimators=50, max_features=6).  
+Najlepszym modelem okazał się **Random Forest** (n_estimators=400, max_features=8).  
 Najważniejsze cechy wpływające na jakość wina: **alkohol**, **siarczany**, **kwasowość lotna**.
